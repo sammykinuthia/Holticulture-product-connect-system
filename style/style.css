@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.filter select{
+    display: inline;
+    width: 70%;
+}
+#filter{
+    display: inline-block;
+    width: fit-content;
+}
